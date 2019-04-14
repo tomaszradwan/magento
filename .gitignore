@@ -2,3 +2,5 @@
 skin/
 media/
 .idea/
+app/etc/local.xml
+var/
